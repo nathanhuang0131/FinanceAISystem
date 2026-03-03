@@ -1,0 +1,5 @@
+line_id,journal_id,account_id,debit,credit,description,customer_id,supplier_id
+cea1d61a2c224fbfb57a1cc9086283be,2629eb5d71aa41ce814cc19aecf4e554,1000,250.0,0.0,Cash received,,
+93a4d43e5c76431ebfb8cdaeb871332e,2629eb5d71aa41ce814cc19aecf4e554,4000,0.0,250.0,Sales revenue,,
+dfb452fcb9a2406aaf6b9eadf8a5c4df,daa5a7a1ba9e4dfd97d5f4531972fea0,1001,150.0,0.0,,None,None
+6884ab305d634bf1864536c289af2863,daa5a7a1ba9e4dfd97d5f4531972fea0,4001,0.0,150.0,,None,None

@@ -1,0 +1,7 @@
+account_id,name,type
+1000,Cash,ASSET
+1100,Accounts Receivable,ASSET
+2000,Accounts Payable,LIABILITY
+3000,Owner Equity,EQUITY
+4000,Sales,INCOME
+5000,Rent Expense,EXPENSE

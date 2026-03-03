@@ -1,0 +1,19 @@
+{
+  "date": "2026-01-15",
+  "memo": "Sample sale",
+  "reference": "INV-1001",
+  "lines": [
+    {
+      "account_id": "1000",
+      "debit": 250.0,
+      "credit": 0.0,
+      "description": "Cash received"
+    },
+    {
+      "account_id": "4000",
+      "debit": 0.0,
+      "credit": 250.0,
+      "description": "Sales revenue"
+    }
+  ]
+}
