@@ -1,6 +1,15 @@
 fastapi>=0.116.0
 uvicorn>=0.35.0
 pydantic>=2.11.0
-typer>=0.16.0
+python-multipart>=0.0.9
+typer[all]>=0.16.0
 pytest>=8.4.0
 httpx>=0.28.0
+python-dateutil>=2.9.0
+pypdf>=5.3.1
+pdfplumber>=0.11.5
+pymupdf>=1.25.3
+paddlepaddle>=3.0.0
+paddleocr>=2.9.1
+pillow>=11.1.0
+numpy>=1.26.0
